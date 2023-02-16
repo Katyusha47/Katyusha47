@@ -14,7 +14,7 @@ Nothing happen here
   <img src="https://github.com/Katyusha47/addons/blob/main/trast.gif" width="256" />
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Katyusha47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100073110110500)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' align='center'>](https://github.com/Katyusha47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' align='center'>](https://www.facebook.com/100073110110500)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katyusha47)](https://github.com/anuraghazra/github-readme-stats)
 
