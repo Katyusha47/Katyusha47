@@ -1,8 +1,8 @@
 ![I am an Ordinary College Student](https://github.com/Katyusha47/addons/blob/main/github-header-image.png?raw=true)
-## Delta Echo
+# Delta Echo
 #### I am an Ordinary College Student
 
-Just an Ordinary College Student
+Nothing happen here
 
 ## Skills and Experience: 
 * <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40' width='30'> Python
