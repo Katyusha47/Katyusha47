@@ -1,13 +1,13 @@
 ### Delta Echo
 #### I am an Ordinary College Student
-![I am an Ordinary College Student](https://github.com/Katyusha47/addons/blob/main/trast.gif?raw=true)
+![I am an Ordinary College Student](https://github.com/Katyusha47/addons/blob/main/github-header-image.png?raw=true)
 
 Just an Ordinary College Student
 
 ## Skills and Experience: 
-* <i class="fa-brands fa-python"></i> Python
-* <i class="fa-brands fa-java"></i> Java
-* <i class="fa-brands fa-php"></i> PHP
+* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>] Python
+* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>] Java
+* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>] PHP
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Katyusha47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100073110110500)  
