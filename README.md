@@ -22,4 +22,6 @@ Nothing happen here
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Katyusha47&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katyusha47)](https://github.com/anuraghazra/github-readme-stats) ![GitHub metrics](https://metrics.lecoq.io/Katyusha47)    
+![GitHub metrics](https://metrics.lecoq.io/Katyusha47)    
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katyusha47&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
