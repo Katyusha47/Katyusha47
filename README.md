@@ -1,6 +1,6 @@
 ![I am an Ordinary College Student](https://github.com/Katyusha47/addons/blob/main/github-header-image.png?raw=true)
 # Delta Echo
-#### I am an Ordinary College Student
+#### Junior Web Developer
 
 I'm a year 2 student at Telkom University, majoring in Information Technology Degree. I have an interest in becoming a Back-End Web Developer & Game Developer with Python programming language skills, C++, HTML/CSS/PHP, Basic understanding of the System Computer, Basic Understanding of Hardware & Systems Software, and Proficient in operating the system Hardware & Software.
 
