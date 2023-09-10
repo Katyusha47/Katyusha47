@@ -2,7 +2,7 @@
 # Delta Echo
 #### I am an Ordinary College Student
 
-Nothing happen here
+I'm a year 2 student at Telkom University, majoring in Information Technology Degree. I have an interest in becoming a Back-End Web Developer & Game Developer with Python programming language skills, C++, HTML/CSS/PHP, Basic understanding of the System Computer, Basic Understanding of Hardware & Systems Software, and Proficient in operating the system Hardware & Software.
 
 ## Skills and Experience: 
 * Python
