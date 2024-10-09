@@ -1,6 +1,6 @@
 # Delta Echo
 
-## My Social Media
+## Social Media
 <p align="center">
   <img src="https://github.com/Katyusha47/addons/blob/main/trast.gif" width="286" />
 </p>
@@ -9,7 +9,6 @@
 -->
 ## Stats
 ![Profile views](https://gpvc.arturio.dev/Katyusha47)
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Katyusha47&show_icons=true&theme=tokyonight)
 
