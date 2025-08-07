@@ -1,6 +1,6 @@
 # Delta Echo
 
-## Social Media
+<!--## Social Media-->
 <p align="center">
   <img src="https://github.com/Katyusha47/addons/blob/main/trast.gif" width="500" />
 </p>
