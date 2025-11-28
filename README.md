@@ -45,19 +45,23 @@ Full-stack developer with a passion for **security tools**, **web development**,
 
 ### 🛡️ PHANTOM
 
-Security-focused stress testing tool with HTTP flood, Slowloris attacks, and comprehensive authorization controls.
+Security-focused stress testing tool with HTTP flood, Slowloris attacks, and comprehensive authorization controls.  
+→ [Repository](https://github.com/Katyusha47/phantom)
 
-### 🏥 BlokcEn Healthcare
+### 🏥 BlockChain Healthcare
 
-Blockchain-based healthcare patient data management system built with Hyperledger Fabric for secure medical records.
+Blockchain-based healthcare patient data management system built with Hyperledger Fabric for secure medical records.  
+→ [Repository](https://github.com/Katyusha47/blokcen-healthcare)
 
 ### 🔧 System Maintenance Panel
 
-Modern Windows system administration tool with GUI built using Python and PyQt6 for managing updates, users, and network settings.
+Modern Windows system administration tool with GUI built using Python and PyQt6 for managing updates, users, and network settings.  
+→ [Repository](https://github.com/Katyusha47/System-Maintenance-Panel)
 
 ### 📥 MediaFetch
 
-Python-based media downloader with support for multiple platforms and robust error handling.
+Python-based media downloader with support for multiple platforms and robust error handling.  
+→ [Repository](https://github.com/Katyusha47/MediaFetch)
 
 ---
 
