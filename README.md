@@ -2,6 +2,8 @@
 
 # 👋 Hey, I'm Katyusha47
 
+![Bad Apple](./bad-apple.gif)
+
 ### Developer | Security Enthusiast | Open Source Contributor
 
 [![GitHub followers](https://img.shields.io/github/followers/Katyusha47?style=for-the-badge&logo=github&labelColor=1c1c1c&color=00d9ff)](https://github.com/Katyusha47)
