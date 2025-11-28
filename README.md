@@ -68,12 +68,17 @@ Python-based media downloader with support for multiple platforms and robust err
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katyusha47&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katyusha47&layout=compact&theme=radical" />
+  
+![](https://github-readme-stats.vercel.app/api?username=Katyusha47&show_icons=true&theme=synthwave&count_private=true&hide_border=true)
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Katyusha47&layout=compact&theme=synthwave&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Katyusha47&theme=radical" alt="GitHub streak" />
+  
+![](https://streak-stats.demolab.com/?user=Katyusha47&theme=synthwave&hide_border=true)
+
 </div>
 
 ---
