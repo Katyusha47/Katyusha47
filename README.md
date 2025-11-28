@@ -4,7 +4,7 @@
 
 ![Bad Apple](./bad-apple.gif)
 
-### Developer | Security Enthusiast | Open Source Contributor
+### Developer | Security Enthusiast | Student
 
 [![GitHub followers](https://img.shields.io/github/followers/Katyusha47?style=for-the-badge&logo=github&labelColor=1c1c1c&color=00d9ff)](https://github.com/Katyusha47)
 [![GitHub stars](https://img.shields.io/github/stars/Katyusha47?style=for-the-badge&logo=github&labelColor=1c1c1c&color=00d9ff)](https://github.com/Katyusha47)
@@ -17,10 +17,10 @@
 
 Full-stack developer with a passion for **security tools**, **web development**, and **automation**. I build practical tools that solve real problems and explore cutting-edge tech along the way.
 
-- 🔐 Building stress testing tools
-- 🌐 Developing full-stack web applications with **Laravel** and **modern JS**
-- 🐍 Automating workflows and media tools with **Python**
-- 🎨 Designing clean, modern UIs
+- Building stress testing tools
+- Developing full-stack web applications with **Laravel** and **modern JS**
+- Automating workflows and media tools with **Python**
+- Designing clean, modern UIs
 
 ---
 
@@ -45,22 +45,22 @@ Full-stack developer with a passion for **security tools**, **web development**,
 
 ## 🔭 Featured Projects
 
-### 🛡️ PHANTOM
+### PHANTOM
 
 Security-focused stress testing tool with HTTP flood, Slowloris attacks, and comprehensive authorization controls.  
 → [Repository](https://github.com/Katyusha47/phantom)
 
-### 🏥 BlockChain Healthcare
+### BlockChain Healthcare
 
 Blockchain-based healthcare patient data management system built with Hyperledger Fabric for secure medical records.  
 → [Repository](https://github.com/Katyusha47/blokcen-healthcare)
 
-### 🔧 System Maintenance Panel
+### System Maintenance Panel
 
 Modern Windows system administration tool with GUI built using Python and PyQt6 for managing updates, users, and network settings.  
 → [Repository](https://github.com/Katyusha47/System-Maintenance-Panel)
 
-### 📥 MediaFetch
+### MediaFetch
 
 Python-based media downloader with support for multiple platforms and robust error handling.  
 → [Repository](https://github.com/Katyusha47/MediaFetch)
