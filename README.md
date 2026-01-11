@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Katyusha47
+# Hey, I'm Delta
 
 ![Bad Apple](./bad-apple.gif)
 
-### Developer | Security Enthusiast | Student
+### | Student |
 
 [![GitHub followers](https://img.shields.io/github/followers/Katyusha47?style=for-the-badge&logo=github&labelColor=1c1c1c&color=00d9ff)](https://github.com/Katyusha47)
 [![GitHub stars](https://img.shields.io/github/stars/Katyusha47?style=for-the-badge&logo=github&labelColor=1c1c1c&color=00d9ff)](https://github.com/Katyusha47)
@@ -13,41 +13,24 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Full-stack developer with a passion for **security tools**, **web development**, and **automation**. I build practical tools that solve real problems and explore cutting-edge tech along the way.
+I'm a student who eager to learn Web Development, Cyber Security, and Network field.
 
-- Building stress testing tools
-- Developing full-stack web applications with **Laravel** and **modern JS**
+I build these kind of things:
+
+- Multi-tools for pentesting
+- Developing full-stack web applications with **Laravel**
 - Automating workflows and media tools with **Python**
-- Designing clean, modern UIs
+- etc.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks & Tools
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🔭 Featured Projects
+## Featured Projects
 
 ### PHANTOM
 
-Security-focused stress testing tool with HTTP flood, Slowloris attacks, and comprehensive authorization controls.  
+Security-focused multi-tool with HTTP flood, Slowloris attacks, and comprehensive authorization controls.  
 → [Repository](https://github.com/Katyusha47/phantom)
 
 ### BlockChain Healthcare
@@ -67,17 +50,7 @@ Python-based media downloader with support for multiple platforms and robust err
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Streak](https://streak-stats.demolab.com/?user=Katyusha47&theme=synthwave&hide_border=true)
-
-</div>
-
----
-
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
